@@ -11,7 +11,7 @@ class Order {
         this.items = [];
     }
 }
-//This is the Main Menu
+
 class Menu {
     constructor() {
         this.orders = [];
